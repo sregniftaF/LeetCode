@@ -65,11 +65,11 @@ public:
         Sstack.push_back(s);
     }
 };
-
-int main() {
-
-    Solution sol;
-    string s;
-    cin >> s;
-    cout << (sol.isValid(s) ? "true":"false");
-}
+//
+//int main() {
+//
+//    Solution sol;
+//    string s;
+//    cin >> s;
+//    cout << (sol.isValid(s) ? "true":"false");
+//}
